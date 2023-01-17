@@ -1,0 +1,14 @@
+---
+title: 4F Short Research Note - `r params$selectedCompany`
+output:
+  html_document:
+  pandoc_args: ["--extract-media", "images"]
+header-includes:
+  \usepackage{booktabs}
+  \usepackage{array}
+tables: true
+params:
+  mytext: NA
+---
+
+Author: `r params$mytext`

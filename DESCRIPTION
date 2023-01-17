@@ -1,7 +1,7 @@
 Package: ShinyEditor
 Type: Package
 Title: HTML Editor
-Version: 0.1.0
+Version: 0.1.1
 Author: person("Deepanshu","Bhalla",email="deepanshu88.us@gmail.com",role=c("aut"),comment="Original creator")
 Maintainer: Deepanshu Bhalla <deepanshu88.us@gmail.com>
 Description: HTML Editor in Shiny App via tiny MCE
